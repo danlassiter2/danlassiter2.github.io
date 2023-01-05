@@ -134,7 +134,7 @@
 <a href="https://github.com/danlassiter2/papers/Lassiter-Blackwell-Adjectives-final.pdf">Adjectival modification and gradation</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Handbook of Contemporary Semantic Theory &mdash; 2nd edition</em>, ed. C. Fox &amp; S. Lappin. [<a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470670738.html">Link to book website</a>] 
 <br>
-<em><a href="https://www.uni-goettingen.de/de/document/download/5aa8e9ef1ff628023135394dea121126.pdf/nadathur-lassiter_sub19.pdf">Unless</em>: An experimental approach</a> [<a href="https://web.stanford.edu/~pnadath/">P. Nadathur</a> &amp; D. Lassiter] 
+<a href="https://www.uni-goettingen.de/de/document/download/5aa8e9ef1ff628023135394dea121126.pdf/nadathur-lassiter_sub19.pdf"><em>Unless</em>: An experimental approach</a> [<a href="https://web.stanford.edu/~pnadath/">P. Nadathur</a> &amp; D. Lassiter] 
 <br>
 &#160;&#160;&#160;&#160;&#160;<em>Proceedings of Sinn und Bedeutung 2014</em>.
 <br>
@@ -153,9 +153,6 @@
 <h3>2013</h3>
 <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/2658/2404">Context, scale structure, and statistics in the interpretation of positive-form adjectives</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 23</em>. [D. Lassiter &amp; <a href="http://cocolab.stanford.edu/ndg.html">N.Goodman</a>] [<a href="http://forestdb.org/models/adjectives.html">Model code in WebPPL</a>]
-<br>
-<a href="https://github.com/danlassiter2/papers/Lassiter-SI-conditionals-draft.pdf">Conditional antecedents provide no evidence for a grammatical theory of scalar implicature</a>
-<br>&#160;&#160;&#160;&#160;&#160;Draft, 11/19/13. Comments welcome.
 
 <h3>2012</h3>
 <a href="http://semprag.org/article/download/sp.5.2/pdf">Presuppositions, provisos, and probability</a> 
@@ -241,6 +238,10 @@ Some papers that were posted in draft form and never finished, but that I still 
 <li>
 <a href="https://pnadathur.github.io/pdfs/Nadathur-Lassiter-2019.pdf"><em>Unless</em>, exceptives, and the pragmatics of conditionals</a> [<a href="https://web.stanford.edu/~pnadath/">P. Nadathur</a> &amp; D. Lassiter]
 </li> 
+<li>
+  <a href="https://github.com/danlassiter2/papers/Lassiter-SI-conditionals-draft.pdf">Conditional antecedents provide no evidence for a grammatical theory of scalar implicature</a>
+<br>&#160;&#160;&#160;&#160;&#160;
+  </li>
 </ul>
 
 </div>
