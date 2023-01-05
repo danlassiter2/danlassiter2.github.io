@@ -1,0 +1,21 @@
+Lecture 1: Key references
+
+Noah D. Goodman, Joshua B. Tenenbaum, & The ProbMods Contributors. Probabilistic Models of Cognition. Webbook. http://probmods.org/
+
+Goodman, Noah D. and Daniel Lassiter. 2015. Probabilistic semantics & pragmatics: Uncertainty in language & thought. In Handbook of Contemporary Semantic Theory, 2nd Edition, ed. S. Lappin & C. Fox. Blackwell.
+	http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf
+
+Holliday, Wesley and Thomas Icard. 2013. Measure semantics and qualitative semantics for epistemic modals. Proceedings of SALT 23.
+	https://philosophy.berkeley.edu/file/869/Holliday_and_Icard_SALT_23.pdf
+
+Kolmogorov, Andrej. 1950. Foundations of the theory of probability. Chelsea Publishing. [Originally published 1933 as Grundbegriffe der Wahrscheinlichkeitsrechnung.] 
+
+Kratzer, Angelika. 1991. Modality. In Semantik: Ein internationales Handbuch der zeitgenossischen Forschung, ed. A. von Stechow & D. Wunderlich. de Gruyter.
+	http://www.sfs.uni-tuebingen.de/~mfranke/ModCond/Material/Kratzer_1991_Modality.pdf
+
+Lassiter, Daniel. 2017. Graded Modality. Oxford University Press.
+	http://web.stanford.edu/~danlass/Lassiter-book-draft.pdf
+
+Lewis, David. 1973. Counterfactuals. Blackwell.
+
+Judea Pearl. 1988. Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. Morgan Kaufmann.

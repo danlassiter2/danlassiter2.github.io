@@ -1,0 +1,45 @@
+Lecture 2: Key references
+
+Adams, Ernest. 1966. Probability and the logic of conditionals. Studies in Logic and the Foundations of Mathematics 43.
+
+Adams, Ernest. 1975. The Logic of Conditionals: An Application of Probability to Deductive Logic. Springer.
+
+Belnap, Nuel. 1970. Conditional assertion and restricted quantification. Nous 4(1).
+
+Bradley, Richard. 2003. Indicative conditionals. Erkenntnis 56(3).
+
+de Finetti, Bruno. La logique de la probabilité. Actes du Congrès nternational de Philosophie Scientifique (4). Hermann Editeurs Paris. [Translated into English as 'The logic of probability', Philosophical Studies 77(1), 1995.]
+
+Cantwell, John. 2008. Indicative conditionals: Factual or epistemic? Studia Logica 88(1).
+
+Douven, Igor and Sara Verbrugge. 2010. The Adams family. Cognition 117(3).
+
+Evans, Jonathan, Simon Handley, and David Over. 2003. Conditionals and conditional probability. Journal of Experimental Psychology: Learning, Memory, and Cognition 29(2).
+
+von Fintel, Kai and Sabine Iatridou. 2003. If and When If-Clauses Can Restrict Quantifiers. Ms., MIT.
+
+Huitink, Janneke. 2008. Modals, Conditionals and Compositionality. Ph.D. thesis, Radboud University Nijmegen.
+
+Khoo, Justin. to appear. The meaning of conditionals. Oxford University Press.
+
+McDermott, Michael. 1996. On the Truth Conditions of Certain `If'-Sentences. The Philosophical Review 105(1).
+
+Milne, Peter. 1997. Bruno de Finetti and the logic of conditional events. The British Journal for the Philosophy of Science 48(2).
+
+Kratzer, Angelika. 1991. Conditionals. In von Stechow & Wunderlich (eds.), Semantik: Ein internationales Handbuch der zeitgenoessischen Forschung. Walter de Gruyter.
+
+Lassiter, Daniel. 2019. What we can learn from how trivalent conditionals avoid triviality. Inquiry.
+
+Lewis, David. 1975. Adverbs of quantification. In Keenan ed., Formal Semantics of Natural Language. Cambridge University Press.
+
+Lewis, David. 1976. Probabilities of conditionals and conditional probabilities. Philosophical Review 85(3).
+
+Politzer, Guy and David Over and Jean Baratgin. 2010. Betting on conditionals. Thinking & Reasoning 16(3).
+
+Rothschild, Daniel. 2014. Capturing the relationship between conditionals and conditional probability with a trivalent semantics. Journal of Applied Non-Classical Logics 24(1-2).
+
+Schlenker, Philippe. 2004. Conditionals as definite descriptions. Research on language and computation 2(3).
+
+Stalnaker, Robert. 1970. Probability and conditionals. Philosophy of Science 37(1).
+
+van Fraassen, Bas. 1976. Probabilities of conditionals. In Harper & Hooker eds, Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science, Reidel.
