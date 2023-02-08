@@ -30,7 +30,7 @@
   href="https://scholar.google.com/citations?user=5sxR1GkAAAAJ&hl=en">Google Scholar profile</a></h2>
 
 <h2 class="col" style="margin-top:10px;margin-bottom:5px"><a
-  href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-CV.pdf">CV</a></h2>
+  href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/Lassiter-CV.pdf">CV</a></h2>
 
 <h2 class="col" style="margin-top:10px;margin-bottom:5px"><a href="https://github.com/danlassiter2/Teaching.html">Teaching</a></h2>
 
