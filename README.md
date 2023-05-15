@@ -36,6 +36,14 @@
 
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
+<h3>2023</h3>
+
+<a href="
+https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
+">Coherence, not conditional meaning, accounts for the relevance effect</a> [M. Bourlier, B. Jacquet, D. Lassiter and J. Baratgin]
+<br>&#160;&#160;&#160;&#160;&#160;<em>Frontiers in Psychology</em>.
+<br>
+
 <h3>2022</h3>
 
 <a href="https://semprag.org/index.php/sp/article/view/sp.15.13/3055">Probabilistic modeling of rational communication with conditionals</a> [B. Grusdt, D. Lassiter and <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
