@@ -67,11 +67,11 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <h3>2020</h3>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-commentary-Phillipsetal.pdf">Belief vs. knowledge: An epic battle, but no clear victor</a> 
-<br>&#160;&#160;&#160;&#160;&#160;Commentary on <a href="https://www-cambridge-org.stanford.idm.oclc.org/core/journals/behavioral-and-brain-sciences/article/knowledge-before-belief/B434EF04A3EA77018384EABEB4973994">Phillips et al., &quot;Knowledge before belief&quot;</a>, to appear in <em>Behavioral &amp; Brain Sciences</em>.
+<br>&#160;&#160;&#160;&#160;&#160;Commentary on <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/knowledge-before-belief/B434EF04A3EA77018384EABEB4973994">Phillips et al., &quot;Knowledge before belief&quot;</a>, to appear in <em>Behavioral &amp; Brain Sciences</em>.
 <br>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-graded-modality-draft.pdf">Graded modality</a>
-<br>&#160;&#160;&#160;&#160;&#160;In Matthewson et al (eds.), <em>Blackwell Companion to Semantics</em>. [<a href="https://onlinelibrary-wiley-com.stanford.idm.oclc.org/doi/full/10.1002/9781118788516.sem074">Publisher's Version</a>]
+<br>&#160;&#160;&#160;&#160;&#160;In Matthewson et al (eds.), <em>Blackwell Companion to Semantics</em>. [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118788516.sem074">Publisher's Version</a>]
 <br>
 
 <h3>2019</h3>
@@ -97,7 +97,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of NELS 48</em>.
 <br>
 
-<a href="http://alpslab.stanford.edu/papers/2018_QingLassiterDegen.pdf">What do eye movements in the visual world reflect? A case study from adjectives</a> [<a href="https://sites.google.com/site/qciyang">C. Qing</a>, D. Lassiter &amp; <a href="https://sites.google.com/site/judithdegen/home">J. Degen</a>]
+<a href="https://alpslab.stanford.edu/papers/2018QingLassiterEtAl.pdf">What do eye movements in the visual world reflect? A case study from adjectives</a> [<a href="https://sites.google.com/site/qciyang">C. Qing</a>, D. Lassiter &amp; <a href="https://sites.google.com/site/judithdegen/home">J. Degen</a>]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of the 40th Annual Conference of the Cognitive Science Society</em>.
 
 
@@ -150,18 +150,18 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>
 
 <h3>2014</h3>
-<a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/24.597/2727">The weakness of <em>must</em>: In defense of a Mantra</a>
+<a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/24.597/2727">The weakness of <em>must</em>: In defense of a Mantra</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 24</em>.
 <br>&#160;&#160;&#160;&#160;&#160;[Superseded by &quot;<em>Must</em>, knowledge, and (in)directness&quot;, published in <em>Natural Language Semantics</em> in 2016.] 
 <br>
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-epistemic-deontic-additive-intermediate.pdf">Modality, scale structure, and scalar reasoning</a>
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-modality-scalar-reasoning.pdf">Modality, scale structure, and scalar reasoning</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Pacific Philosophical Quarterly</em>. [<a href="http://onlinelibrary.wiley.com/doi/10.1111/papq.12045/abstract">Publisher's version</a>]  
 <br>
-<a href="Lassiter-epistemic-comparison-preprint.pdf">Epistemic comparison, models of uncertainty, and the disjunction puzzle</a>
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-epistemic-comparison-preprint.pdf">Epistemic comparison, models of uncertainty, and the disjunction puzzle</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Journal of Semantics</em>. [<a href="https://academic.oup.com/jos/article-abstract/32/4/649/2362772">Publisher's version</a>]  
 
 <h3>2013</h3>
-<a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/2658/2404">Context, scale structure, and statistics in the interpretation of positive-form adjectives</a> 
+<a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/2658/2404">Context, scale structure, and statistics in the interpretation of positive-form adjectives</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 23</em>. [D. Lassiter &amp; <a href="http://cocolab.stanford.edu/ndg.html">N.Goodman</a>] [<a href="http://forestdb.org/models/adjectives.html">Model code in WebPPL</a>]
 
 <h3>2012</h3>
@@ -173,7 +173,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
   and modal interveners in degree constructions</a>     
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 22</em>.
 <br>
-<a href="http://mindmodeling.org/cogsci2012/papers/0125/paper0125.pdf">How many kinds of reasoning? Inference, probability, and natural language semantics</a> 
+<a href="https://web.stanford.edu/~ngoodman/papers/LassiterGoodman12.pdf">How many kinds of reasoning? Inference, probability, and natural language semantics</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of the 34th Annual
   Conference of the Cognitive Science Society. </em> [D. Lassiter &amp; <a href="http://cocolab.stanford.edu/ndg.html">N.Goodman</a>]
 
@@ -204,10 +204,10 @@ Algebraic Structure of Amounts: Evidence from Comparatives</a>
 <em>Interfaces: Explorations in Logic, Language, and
 Computation</em>.
 <br><a
-  href="http://biolinguistics.eu/index.php/biolinguistics/article/download/140/150">Where is the Conflict between Internalism and Externalism? A Reply to Lohndal and Narita</a> 
+  href="https://doi.org/10.5964/bioling.8771">Where is the Conflict between Internalism and Externalism? A Reply to Lohndal and Narita</a> 
 <br>&#160;&#160;&#160;&#160;&#160; <em>Biolinguistics</em>.
 <br><a
-  href="http://repository.upenn.edu/cgi/viewcontent.cgi?article=1107&context=pwpl">Explaining a restriction on the scope of the comparative operator</a> 
+  href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-HK.pdf">Explaining a restriction on the scope of the comparative operator</a> 
 <br>&#160;&#160;&#160;&#160;&#160; <em>Penn Working Papers in Linguistics</em>.
 <br><a
   href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/lassiter-cjp-externalism.pdf">Semantic Normativity and Coordination Games: Social Externalism Deflated</a> 
