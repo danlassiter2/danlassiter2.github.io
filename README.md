@@ -89,7 +89,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>
 
 <h2>2018</h2>
-<a href="http://semprag.org/article/download/sp.11.9/pdf">Complex sentential operators refute unrestricted Simplification of Disjunctive Antecedents</a> 
+<a href="http://semprag.org/index.php/sp/article/view/sp.11.9/pdf">Complex sentential operators refute unrestricted Simplification of Disjunctive Antecedents</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics &amp; Pragmatics</em>.
 <br>
 
@@ -165,7 +165,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 23</em>. [D. Lassiter &amp; <a href="http://cocolab.stanford.edu/ndg.html">N.Goodman</a>] [<a href="http://forestdb.org/models/adjectives.html">Model code in WebPPL</a>]
 
 <h3>2012</h3>
-<a href="http://semprag.org/article/download/sp.5.2/pdf">Presuppositions, provisos, and probability</a> 
+<a href="https://semprag.org/index.php/sp/article/view/sp.5.2/pdf">Presuppositions, provisos, and probability</a> 
   <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics &amp; Pragmatics</em>.
   <br>
 <a
