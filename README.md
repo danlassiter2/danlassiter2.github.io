@@ -43,6 +43,9 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 ">Coherence, not conditional meaning, accounts for the relevance effect</a> [M. Bourlier, B. Jacquet, D. Lassiter and J. Baratgin]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Frontiers in Psychology</em>.
 <br>
+<a href="https://escholarship.org/uc/item/4nb281bw">Degree of heterogeneity in the contexts of language users mediates the cognitivecommunicative trade-off in semantic categorization</a> [V. Nedelcu, K. Smith and D. Lassiter]
+<br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2023.
+<br>
 
 <h3>2022</h3>
 
