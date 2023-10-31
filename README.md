@@ -38,11 +38,10 @@
 
 <h3>2023</h3>
 
-
-
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-compositional-semantics-in-reasoning.pdf">The crucial role of compositional semantics in the study of reasoning</a> 
-<br>&#160;&#160;&#160;&#160;&#160;<em>To appear in Jean Baratgin & Emmanuel Brochier (eds.), <em>Proceedings of the 2nd International Conference on Human and Artificial Rationalities (HAR 2023)</em>, Springer.
+<br>&#160;&#160;&#160;&#160;&#160;<em>To appear in <em>Proceedings of the 2nd International Conference on Human and Artificial Rationalities (HAR 2023)</em>.
 
+<br>
 <a href="
 https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 ">Coherence, not conditional meaning, accounts for the relevance effect</a> [M. Bourlier, B. Jacquet, D. Lassiter and J. Baratgin]
