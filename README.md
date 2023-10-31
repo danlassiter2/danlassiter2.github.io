@@ -39,7 +39,7 @@
 <h3>2023</h3>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-compositional-semantics-in-reasoning.pdf">The crucial role of compositional semantics in the study of reasoning</a> 
-<br>&#160;&#160;&#160;&#160;&#160;<em>To appear in <em>Proceedings of the 2nd International Conference on Human and Artificial Rationalities (HAR 2023)</em>.
+<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Proceedings of the 2nd International Conference on Human and Artificial Rationalities (HAR 2023)</em>.
 
 <br>
 <a href="
