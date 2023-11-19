@@ -17,7 +17,7 @@
  <img src="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/dan-photo2.jpg" height=267px width=253px>
 
 <p><strong>Daniel Lassiter</strong></p>
-<p>Senior Lecturer in <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language">Linguistics &amp; English Language, University of Edinburgh</a></p>
+<p>Senior Lecturer in Semantics, <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language">Linguistics &amp; English Language, University of Edinburgh</a></p>
 
 <p><strong>Research interests:</strong> Semantics, pragmatics, philosophy of language, computational cognitive science, linguistic applications of probability and decision theory.
 </p>
@@ -53,7 +53,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 
 <h3>2022</h3>
 
-<a href="https://semprag.org/index.php/sp/article/view/sp.15.13/3055">Probabilistic modeling of rational communication with conditionals</a> [B. Grusdt, D. Lassiter and <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
+<a href="https://doi.org/10.3765/sp.15.13">Probabilistic modeling of rational communication with conditionals</a> [B. Grusdt, D. Lassiter and <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics &amp; Pragmatics</em>.
 <br>
 
@@ -96,7 +96,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>
 
 <h2>2018</h2>
-<a href="http://semprag.org/index.php/sp/article/view/sp.11.9/pdf">Complex sentential operators refute unrestricted Simplification of Disjunctive Antecedents</a> 
+<a href="https://doi.org/10.3765/sp.11.9">Complex sentential operators refute unrestricted Simplification of Disjunctive Antecedents</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics &amp; Pragmatics</em>.
 <br>
 
@@ -118,7 +118,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-complex-antecedents-AC.pdf">Complex antecedents and probabilities in causal counterfactuals</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of the 21st Amsterdam Colloquium</em>.
 <br>
-<a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/27.525/3987">Probabilistic language in indicative and counterfactual conditionals</a>
+<a href="https://doi.org/10.3765/salt.v27i0.4188">Probabilistic language in indicative and counterfactual conditionals</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory 27</em>.
 <br>
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-SuB-21.pdf">Bayes nets and the dynamics of probabilistic language</a>
@@ -157,7 +157,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>
 
 <h3>2014</h3>
-<a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/24.597/2727">The weakness of <em>must</em>: In defense of a Mantra</a>
+<a href="https://doi.org/10.3765/salt.v24i0.2985">The weakness of <em>must</em>: In defense of a Mantra</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 24</em>.
 <br>&#160;&#160;&#160;&#160;&#160;[Superseded by &quot;<em>Must</em>, knowledge, and (in)directness&quot;, published in <em>Natural Language Semantics</em> in 2016.] 
 <br>
@@ -168,15 +168,15 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>&#160;&#160;&#160;&#160;&#160;<em>Journal of Semantics</em>. [<a href="https://academic.oup.com/jos/article-abstract/32/4/649/2362772">Publisher's version</a>]  
 
 <h3>2013</h3>
-<a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/2658/2404">Context, scale structure, and statistics in the interpretation of positive-form adjectives</a> 
+<a href="https://doi.org/10.3765/salt.v23i0.2658">Context, scale structure, and statistics in the interpretation of positive-form adjectives</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 23</em>. [D. Lassiter &amp; <a href="http://cocolab.stanford.edu/ndg.html">N.Goodman</a>] [<a href="http://forestdb.org/models/adjectives.html">Model code in WebPPL</a>]
 
 <h3>2012</h3>
-<a href="https://semprag.org/index.php/sp/article/view/sp.5.2/pdf">Presuppositions, provisos, and probability</a> 
+<a href="https://doi.org/10.3765/sp.5.2">Presuppositions, provisos, and probability</a> 
   <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics &amp; Pragmatics</em>.
   <br>
 <a
-  href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/2649/2395">Quantificational
+  href="https://doi.org/10.3765/salt.v22i0.2649">Quantificational
   and modal interveners in degree constructions</a>     
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT) 22</em>.
 <br>
@@ -190,7 +190,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
   (supervisor: <a href="https://files.nyu.edu/cb125/public/">Chris
   Barker</a>).
   <br>
-<a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/2608/2355">Nouwen's puzzle and a scalar semantics for obligations, needs, and desires</a>  
+<a href="https://doi.org/10.3765/salt.v21i0.2608">Nouwen's puzzle and a scalar semantics for obligations, needs, and desires</a>  
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT)
   21</em>. 
 <br>
@@ -201,7 +201,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
 <br>&#160;&#160;&#160;&#160;&#160; <em>NYU Working Papers in Linguistics</em>.
 
 <h3>2010</h3>
-<a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/2557/2305">Gradable epistemic modals, probability, and scale structure</a>  
+<a href="https://doi.org/10.3765/salt.v20i0.2557">Gradable epistemic modals, probability, and scale structure</a>  
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory (SALT)
   20</em>.
 <br><a
