@@ -36,6 +36,21 @@
 
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
+<h3>2024</h3>
+
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Li-pragmatic-intrusion-CogSci.pdf">Pragmatic intrusion in probability judgment: The case of conditionals</a> [D. Lassiter &amp; C. Li]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2024.
+<br>
+
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Franke-inferring-causation-from-correlation.pdf">The rationality of inferring causation from correlational language</a> [D. Lassiter &amp; <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2024.
+<br>
+
+Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks [V. Nedelcu, <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a> and D. Lassiter]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2024.
+<br>
+
+
 <h3>2023</h3>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-compositional-semantics-in-reasoning.pdf">The crucial role of compositional semantics in the study of reasoning</a> 
