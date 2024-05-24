@@ -39,7 +39,7 @@
 <h3>2024</h3>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Li-pragmatic-intrusion-CogSci.pdf">Pragmatic intrusion in probability judgment: The case of conditionals</a> [D. Lassiter &amp; C. Li]
-<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2024.
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2024. [<a href="https://osf.io/7x63j/?view_only=7db2e26d2d5b497faac451c531c800ff">OSF repo with data and analysis script</a>]
 <br>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Franke-inferring-causation-from-correlation.pdf">The rationality of inferring causation from correlational language</a> [D. Lassiter &amp; <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
