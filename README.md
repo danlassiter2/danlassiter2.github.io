@@ -46,14 +46,13 @@
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024.
 <br>
 
-Graded causatives [<a href="https://angelacao8.github.io/">A. Cao</a>, <a href="https://aaronstevenwhite.io/">A. S. White</a> and D. Lassiter]
-<br>To appear in <em>Experiments in Linguistic Meaning 3</em>.
-<br>
-
 Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks [V. Nedelcu, <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a> and D. Lassiter]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024.
 <br>
 
+Graded causatives [<a href="https://angelacao8.github.io/">A. Cao</a>, <a href="https://aaronstevenwhite.io/">A. S. White</a> and D. Lassiter]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Experiments in Linguistic Meaning 3</em>.
+<br>
 
 <h3>2023</h3>
 
