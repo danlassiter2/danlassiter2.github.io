@@ -38,6 +38,11 @@
 
 <h3>2024</h3>
 
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-notes-on-Khoo.pdf">Distinguishing semantics, pragmatics, and reasoning in the theory of conditionals</a> 
+<br>&#160;&#160;&#160;&#160;&#160;[discussion of <a href="https://global.oup.com/academic/product/the-meaning-of-if-9780190096700?cc=gb&lang=en&">Khoo, <em>The meaning of</em> if, OUP 2022</a>]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Inquiry</em>.
+<br>
+
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Li-pragmatic-intrusion-CogSci.pdf">Pragmatic intrusion in probability judgment: The case of conditionals</a> [D. Lassiter &amp; C. Li]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024. [<a href="https://osf.io/za2dj/?view_only=89694665e2a7414f8ad2f02cde45cfa3">OSF repo with data and analysis script</a>]
 <br>
