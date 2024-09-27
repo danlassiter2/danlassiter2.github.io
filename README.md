@@ -50,7 +50,7 @@
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024.
 <br>
 
-<a href="https://escholarship.org/uc/item/2q82m39c">Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks</a>  [V. Nedelcu, <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a> and D. Lassiter]
+<a href="https://escholarship.org/uc/item/2q82m39c">Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks</a>  [V. Nedelcu, D. Lassiter and <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024.
 <br>
 
