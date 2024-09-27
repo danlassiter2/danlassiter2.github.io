@@ -32,8 +32,6 @@
 <h2 class="col" style="margin-top:10px;margin-bottom:5px"><a
   href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/Lassiter-CV.pdf">CV</a></h2>
 
-<h2 class="col" style="margin-top:10px;margin-bottom:5px"><a href="https://github.com/danlassiter2/Teaching.html">Teaching</a></h2>
-
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
 <h3>2024</h3>
