@@ -264,7 +264,7 @@ Edited volume: Daniel Lassiter and Marija Slavkovik (eds). <a href="http://www.s
 
 <h3>Manuscripts</h3> 
 Some papers that were posted in draft form and never finished, but that I still get asked about sometimes.
-
+<br>
 <ul>
 <li>
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-MLBR-uncertainty-draft.pdf">Modal language and Bayesian reasoning</a>
@@ -282,15 +282,5 @@ Some papers that were posted in draft form and never finished, but that I still 
 </ul>
 
 </div>
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-25977188-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
 </body>
 </html>
