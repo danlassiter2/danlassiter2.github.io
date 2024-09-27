@@ -79,8 +79,8 @@ https://doi.org/10.3389/fpsyg.2023.1150550
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics &amp; Pragmatics</em>.
 <br>
 
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-decomposing-relevance.pdf">Decomposing relevance in conditionals</a>
-<br>&#160;&#160;&#160;&#160;&#160;<em>Mind &amp; Language</em>. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12418">Publisher's version</a>]
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12418">Decomposing relevance in conditionals</a>
+<br>&#160;&#160;&#160;&#160;&#160;<em>Mind &amp; Language</em>. 
 <br>
 
 <h3>2021</h3>
