@@ -61,7 +61,7 @@ Graded causatives [<a href="https://angelacao8.github.io/">A. Cao</a>, <a href="
 <h3>2023</h3>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-compositional-semantics-in-reasoning.pdf">The crucial role of compositional semantics in the study of reasoning</a> 
-<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Proceedings of the 2nd International Conference on Human and Artificial Rationalities (HAR 2023)</em>.
+<br>&#160;&#160;&#160;&#160;&#160;In <em>Proceedings of the 2nd International Conference on Human and Artificial Rationalities (HAR 2023)</em>. [<a href="https://doi.org/10.1007/978-3-031-55245-8">Publisher's version</a>]
 
 <br>
 <a href="
@@ -96,7 +96,7 @@ https://doi.org/10.3389/fpsyg.2023.1150550
 <h3>2020</h3>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-commentary-Phillipsetal.pdf">Belief vs. knowledge: An epic battle, but no clear victor</a> 
-<br>&#160;&#160;&#160;&#160;&#160;Commentary on <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/knowledge-before-belief/B434EF04A3EA77018384EABEB4973994">Phillips et al., &quot;Knowledge before belief&quot;</a>, to appear in <em>Behavioral &amp; Brain Sciences</em>.
+<br>&#160;&#160;&#160;&#160;&#160;<em>Behavioral &amp; Brain Sciences</em>. (Commentary on <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/knowledge-before-belief/B434EF04A3EA77018384EABEB4973994">Phillips et al., &quot;Knowledge before belief&quot;</a>)
 <br>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-graded-modality-draft.pdf">Graded modality</a>
