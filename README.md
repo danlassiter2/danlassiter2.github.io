@@ -39,7 +39,6 @@
 <h3>2024</h3>
 
 <a href="https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2405186">Distinguishing semantics, pragmatics, and reasoning in the theory of conditionals</a> 
-<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[discussion of <a href="https://global.oup.com/academic/product/the-meaning-of-if-9780190096700?cc=gb&lang=en&">Khoo, <em>The meaning of</em> if, OUP 2022</a>]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Inquiry</em>.
 <br>
 
