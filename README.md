@@ -38,9 +38,9 @@
 
 <h3>2024</h3>
 
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-notes-on-Khoo.pdf">Distinguishing semantics, pragmatics, and reasoning in the theory of conditionals</a> 
+<a href="https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2405186">Distinguishing semantics, pragmatics, and reasoning in the theory of conditionals</a> 
 <br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[discussion of <a href="https://global.oup.com/academic/product/the-meaning-of-if-9780190096700?cc=gb&lang=en&">Khoo, <em>The meaning of</em> if, OUP 2022</a>]
-<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Inquiry</em>.
+<br>&#160;&#160;&#160;&#160;&#160;<em>Inquiry</em>.
 <br>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Li-pragmatic-intrusion-CogSci.pdf">Pragmatic intrusion in probability judgment: The case of conditionals</a> [D. Lassiter &amp; C. Li]
@@ -66,7 +66,7 @@ Graded causatives [<a href="https://angelacao8.github.io/">A. Cao</a>, <a href="
 
 <br>
 <a href="
-https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1150550/full
+https://doi.org/10.3389/fpsyg.2023.1150550
 ">Coherence, not conditional meaning, accounts for the relevance effect</a> [M. Bourlier, B. Jacquet, D. Lassiter and J. Baratgin]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Frontiers in Psychology</em>.
 <br>
