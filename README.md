@@ -48,7 +48,7 @@
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024.
 <br>
 
-<a href="https://escholarship.org/uc/item/2q82m39c">Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks</a>  [V. Nedelcu, D. Lassiter and <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a>]
+<a href="https://escholarship.org/uc/item/2q82m39c">Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks</a>  [<a href="https://vladnedelcu.github.io/">V. Nedelcu</a>, D. Lassiter and <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024.
 <br>
 
@@ -67,7 +67,7 @@ https://doi.org/10.3389/fpsyg.2023.1150550
 ">Coherence, not conditional meaning, accounts for the relevance effect</a> [M. Bourlier, B. Jacquet, D. Lassiter and J. Baratgin]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Frontiers in Psychology</em>.
 <br>
-<a href="https://escholarship.org/uc/item/4nb281bw">Degree of heterogeneity in the contexts of language users mediates the cognitive-communicative trade-off in semantic categorization</a> [V. Nedelcu, <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a> and D. Lassiter]
+<a href="https://escholarship.org/uc/item/4nb281bw">Degree of heterogeneity in the contexts of language users mediates the cognitive-communicative trade-off in semantic categorization</a> [<a href="https://vladnedelcu.github.io/">V. Nedelcu</a>, <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a> and D. Lassiter]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2023.
 <br>
 
