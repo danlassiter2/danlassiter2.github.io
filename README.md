@@ -115,7 +115,7 @@ https://doi.org/10.3389/fpsyg.2023.1150550
 <br>&#160;&#160;&#160;&#160;&#160;In Condoravdi &amp; King (eds.), <em>Tokens of Meaning: Papers in Honor of Lauri Karttunen</em>.
 <br>
 
-<h2>2018</h2>
+<h3>2018</h3>
 <a href="https://doi.org/10.3765/sp.11.9">Complex sentential operators refute unrestricted Simplification of Disjunctive Antecedents</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics &amp; Pragmatics</em>.
 <br>
@@ -128,7 +128,7 @@ https://doi.org/10.3389/fpsyg.2023.1150550
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of the 40th Annual Conference of the Cognitive Science Society</em>.
 
 
-<h2>2017</h2>
+<h3>2017</h3>
 <em><a href="https://global.oup.com/academic/product/graded-modality-9780198701354?cc=us&lang=en&">Graded Modality: Qualitative and Quantitative Perspectives.</a></em> Oxford University Press.
 <br>&#160;&#160;&#160;&#160;&#160;[<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-book-draft.pdf">pre-final draft</a>]
 <br>
@@ -147,7 +147,7 @@ https://doi.org/10.3389/fpsyg.2023.1150550
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Winter-review.pdf">Review of Y. Winter, <em>Elements of Formal Semantics</em></a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Journal of Linguistics</em>. <a href="https://doi.org/10.1017/S0022226717000184">[Publisher's version]</a>
 
-<h2>2016</h2>
+<h3>2016</h3>
 <a href ="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-must-NLS-preprint.pdf"><em>Must</em>, knowledge, and (in)directness</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em> Natural Language Semantics</em>. [<a href="http://link.springer.com/article/10.1007/s11050-016-9121-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst">Publisher's version</a>] [<a href="https://github.com/danlassiter/must-NALS-2016">Data and analysis code</a>]
 <br>
