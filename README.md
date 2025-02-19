@@ -52,7 +52,6 @@ Link to <a href="https://uni-tuebingen.de/universitaet/karriere/newsfullview-ste
 Link to <a href="https://uni-tuebingen.de/universitaet/karriere/newsfullview-stellenangebote/article/phd-researcher-in-theoretical-or-experimental-pragmatics-cognitive-science-m-f-d-e-13-tv-l-65/">T&uuml;bingen PhD ad</a>
 </li>
 </ul>
-</ul>
 
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
