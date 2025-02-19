@@ -41,15 +41,17 @@
 </li>
 <li>
 Job ads (closing March 14, 2025):
-<ul>
-<li>
+  <ul>
+    <li>
 Link to <a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12129">Edinburgh postdoc ad</a>
-</li>
-<li>
+    </li>
+    <li>
 Link to <a href="https://uni-tuebingen.de/universitaet/karriere/newsfullview-stellenangebote/article/post-doctoral-researcher-in-theoretical-or-experimental-pragmatics-cognitive-science-m-f-d-e-13-tv-l-100/">T&uuml;bingen postdoc ad</a>
-</li>
-<li>
+    </li>
+    <li>
 Link to <a href="https://uni-tuebingen.de/universitaet/karriere/newsfullview-stellenangebote/article/phd-researcher-in-theoretical-or-experimental-pragmatics-cognitive-science-m-f-d-e-13-tv-l-65/">T&uuml;bingen PhD ad</a>
+    </li>
+  </ul>
 </li>
 </ul>
 
