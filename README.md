@@ -33,11 +33,11 @@
   href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/Lassiter-CV.pdf">CV</a></h2>
 
 <h2 class="col" style="margin-top:10px;margin-bottom:5px"><b>News</b>: The CommuniCause project (AHRC/DfG, 2025-28, joint with Michael Franke) is recruiting two postdocs and a PhD student. 
+</h2>
 <ul>
 <li>
 <a
   href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/CommuniCause_Project_description.pdf">Project description here</a>.
-  </h2>
 </li>
 <li>
 Job ads (closing March 14, 2025):
