@@ -32,28 +32,7 @@
 <h2 class="col" style="margin-top:10px;margin-bottom:5px"><a
   href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/Lassiter-CV.pdf">CV</a></h2>
 
-<h2 class="col" style="margin-top:10px;margin-bottom:5px"><b>News</b>: The CommuniCause project (AHRC/DfG, 2025-28, joint with Michael Franke) is recruiting two postdocs and a PhD student. 
-</h2>
-<ul>
-<li>
-<a
-  href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/CommuniCause_Project_description.pdf">Project description here</a>.
-</li>
-<li>
-Job ads (closing March 14, 2025):
-  <ul>
-    <li>
-Link to <a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12129">Edinburgh postdoc ad</a>
-    </li>
-    <li>
-Link to <a href="https://uni-tuebingen.de/universitaet/karriere/newsfullview-stellenangebote/article/post-doctoral-researcher-in-theoretical-or-experimental-pragmatics-cognitive-science-m-f-d-e-13-tv-l-100/">T&uuml;bingen postdoc ad</a>
-    </li>
-    <li>
-Link to <a href="https://uni-tuebingen.de/universitaet/karriere/newsfullview-stellenangebote/article/phd-researcher-in-theoretical-or-experimental-pragmatics-cognitive-science-m-f-d-e-13-tv-l-65/">T&uuml;bingen PhD ad</a>
-    </li>
-  </ul>
-</li>
-</ul>
+
 
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
