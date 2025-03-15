@@ -57,6 +57,12 @@ Link to <a href="https://uni-tuebingen.de/universitaet/karriere/newsfullview-ste
 
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
+<h3>2025</h3>
+
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-left-nested-conditionals-SuB.pdf">Sorting out left-nested conditionals</a> 
+<br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of Sinn und Bedeutung 2024</em>.
+<br>
+
 <h3>2024</h3>
 
 <a href="https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2405186">Distinguishing semantics, pragmatics, and reasoning in the theory of conditionals</a> 
