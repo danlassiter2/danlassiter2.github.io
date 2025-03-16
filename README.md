@@ -61,7 +61,7 @@
 <br>
 
 <a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5821">Graded causatives</a> [<a href="https://angelacao8.github.io/">A. Cao</a>, <a href="https://aaronstevenwhite.io/">A. S. White</a> and D. Lassiter]
-<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Experiments in Linguistic Meaning 3</em>.
+<br>&#160;&#160;&#160;&#160;&#160;<em>Experiments in Linguistic Meaning 3</em>.
 <br>
 
 <h3>2023</h3>
