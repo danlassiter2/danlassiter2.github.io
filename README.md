@@ -48,7 +48,7 @@
 <br>&#160;&#160;&#160;&#160;&#160;<em>Inquiry</em>.
 <br>
 
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Li-pragmatic-intrusion-CogSci.pdf">Pragmatic intrusion in probability judgment: The case of conditionals</a> [D. Lassiter &amp; C. Li]
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Li-pragmatic-intrusion-CogSci.pdf">Pragmatic intrusion in probability judgment: The case of conditionals</a> [D. Lassiter &amp; <a href="https://linguistics.uchicago.edu/people/chunan-li">C. Li</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024. [<a href="https://osf.io/za2dj/?view_only=89694665e2a7414f8ad2f02cde45cfa3">OSF repo with data and analysis script</a>]
 <br>
 
