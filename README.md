@@ -37,7 +37,7 @@
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
 <h3>2025</h3>
-How generics obscure the logic of conditionals [D. Lassiter, M. Bourlier, B. Jacquet &amp; <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiteretal-generic-conditionals-preprint.pdf">How generics obscure the logic of conditionals</a> [D. Lassiter, M. Bourlier, B. Jacquet &amp; <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
 <br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Mind &amp; Language</em>. 
 <br>
 
