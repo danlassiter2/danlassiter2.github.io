@@ -37,6 +37,9 @@
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
 <h3>2025</h3>
+How generics obscure the logic of conditionals [D. Lassiter, M. Bourlier, B. Jacquet &amp; <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Mind &amp; Language</em>. 
+<br>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-left-nested-conditionals-SuB.pdf">Sorting out left-nested conditionals</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of Sinn und Bedeutung 2024</em>.
@@ -72,7 +75,7 @@
 <br>
 <a href="
 https://doi.org/10.3389/fpsyg.2023.1150550
-">Coherence, not conditional meaning, accounts for the relevance effect</a> [M. Bourlier, B. Jacquet, D. Lassiter and J. Baratgin]
+">Coherence, not conditional meaning, accounts for the relevance effect</a> [M. Bourlier, B. Jacquet, D. Lassiter and <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Frontiers in Psychology</em>.
 <br>
 <a href="https://escholarship.org/uc/item/4nb281bw">Degree of heterogeneity in the contexts of language users mediates the cognitive-communicative trade-off in semantic categorization</a> [<a href="https://vladnedelcu.github.io/">V. Nedelcu</a>, <a href="http://www.lel.ed.ac.uk/~kenny/">K. Smith</a> and D. Lassiter]
