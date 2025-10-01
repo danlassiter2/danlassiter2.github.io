@@ -41,7 +41,7 @@
 <br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Mind &amp; Language</em>. 
 <br>
 
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-left-nested-conditionals-SuB.pdf">Sorting out left-nested conditionals</a> 
+<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1248/1202">Sorting out left-nested conditionals</a> 
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of Sinn und Bedeutung 2024</em>.
 <br>
 
@@ -152,7 +152,7 @@ https://doi.org/10.3389/fpsyg.2023.1150550
 <a href="https://doi.org/10.3765/salt.v27i0.4188">Probabilistic language in indicative and counterfactual conditionals</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Semantics and Linguistic Theory 27</em>.
 <br>
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-SuB-21.pdf">Bayes nets and the dynamics of probabilistic language</a>
+<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/165">Bayes nets and the dynamics of probabilistic language</a>
 <br>&#160;&#160;&#160;&#160;&#160;<em>Proceedings of Sinn und Bedeutung 21</em>.
 <br>
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Winter-review.pdf">Review of Y. Winter, <em>Elements of Formal Semantics</em></a>
