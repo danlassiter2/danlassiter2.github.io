@@ -38,7 +38,9 @@
 
 <h3>2025</h3>
 
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Truswell-Subset_grammars_and_failed_changes.pdf">How generics obscure the logic of conditionals</a> [D. Lassiter &amp; <a href="http://robtruswell.com/">R. Truswell</a>]
+<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Truswell-Subset_grammars_and_failed_changes.pdf">Failed changes and the Superset Problem: The
+importance of learning in models of syntactic
+change</a> [D. Lassiter &amp; <a href="http://robtruswell.com/">R. Truswell</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Manuscript under review. 
 <br>
 
