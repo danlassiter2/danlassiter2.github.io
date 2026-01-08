@@ -38,14 +38,18 @@
 
 <h3>2025</h3>
 
-<a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-Truswell-Subset_grammars_and_failed_changes.pdf">Failed changes and the Superset Problem: The
+<a href="https://lingbuzz.net/lingbuzz/009641">The temporary-context theory of conditionals</a>
+<br>&#160;&#160;&#160;&#160;&#160;Manuscript under review. 
+<br>
+
+<a href="https://lingbuzz.net/lingbuzz/009556">Failed changes and the Superset Problem: The
 importance of learning in models of syntactic
 change</a> [D. Lassiter &amp; <a href="http://robtruswell.com/">R. Truswell</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Manuscript under review. 
 <br>
 
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiteretal-generic-conditionals-preprint.pdf">How generics obscure the logic of conditionals</a> [D. Lassiter, M. Bourlier, B. Jacquet &amp; <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
-<br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Mind &amp; Language</em>. 
+<br>&#160;&#160;&#160;&#160;&#160;<em>Mind &amp; Language</em> (in press). 
 <br>
 
 <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1248/1202">Sorting out left-nested conditionals</a> 
