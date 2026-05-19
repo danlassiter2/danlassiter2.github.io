@@ -36,6 +36,17 @@
 
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
+<h3>2026</h3>
+
+When Correlation means Causation: Pragmatic Factors modulate Causal
+Implicatures in Decision-Making Contexts</a> [H. Wang, D. Lassiter &amp; <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2026.
+<br>
+
+Explaining order effects in counterfactual reasoning</a> [N. Navarre, T. Quillien, D. Lassiter, Tobi Gerstenberg, &amp; N. R. Bramley]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2026.
+<br>
+
 <h3>2025</h3>
 
 <a href="https://lingbuzz.net/lingbuzz/009641">The temporary-context theory of conditionals</a>
