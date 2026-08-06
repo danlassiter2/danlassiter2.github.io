@@ -37,12 +37,17 @@
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
 <h3>2026</h3>
+
+The lady doth protest too much! Informativity expectations affect judgments of argument strength [S.R. Pulupura, H. Rohde, D. Lassiter &amp; C. Lai]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of SemDial 2026.
+<br>
+
 <a href="https://escholarship.org/uc/item/8q26s1bh">When Correlation means Causation: Pragmatic Factors modulate Causal Implicatures in Decision-Making Contexts</a> [H. Wang, D. Lassiter &amp; <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
-<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2026.
+<br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2026.
 <br>
 
 <a href="https://osf.io/preprints/psyarxiv/b29dm_v2">Explaining order effects in counterfactual reasoning</a> [N. Navarre, T. Quillien, D. Lassiter, Tobi Gerstenberg, &amp; N. R. Bramley]
-<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of CogSci 2026.
+<br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2026.
 <br>
 
 <h3>2025</h3>
