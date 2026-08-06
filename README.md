@@ -38,15 +38,15 @@
 
 <h3>2026</h3>
 
-The lady doth protest too much! Informativity expectations affect judgments of argument strength [S.R. Pulupura, H. Rohde, D. Lassiter &amp; C. Lai]
-<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of SemDial 2026.
+The lady doth protest too much! Informativity expectations affect judgments of argument strength [S.R. Pulupura, <a href="https://pragmatics.ppls.ed.ac.uk/~hannah/">H. Rohde</a>, D. Lassiter &amp; <a href="https://homepages.inf.ed.ac.uk/clai/">C. Lai</a>]
+<br>&#160;&#160;&#160;&#160;&#160;To appear in Proceedings of the 30th Workshop on the Semantics and Pragmatics of Dialogue (SemDial 2026).
 <br>
 
-<a href="https://escholarship.org/uc/item/8q26s1bh">When Correlation means Causation: Pragmatic Factors modulate Causal Implicatures in Decision-Making Contexts</a> [H. Wang, D. Lassiter &amp; <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
+<a href="https://escholarship.org/uc/item/8q26s1bh">When Correlation means Causation: Pragmatic Factors modulate Causal Implicatures in Decision-Making Contexts</a> [<a href="https://heningwang.github.io/my_homepage/">H. Wang</a>, D. Lassiter &amp; <a href="https://michael-franke.github.io/heimseite/">M. Franke</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2026.
 <br>
 
-<a href="https://osf.io/preprints/psyarxiv/b29dm_v2">Explaining order effects in counterfactual reasoning</a> [N. Navarre, T. Quillien, D. Lassiter, Tobi Gerstenberg, &amp; N. R. Bramley]
+<a href="https://osf.io/preprints/psyarxiv/b29dm_v2">Explaining order effects in counterfactual reasoning</a> [<a href="https://web-risc.ens.fr/~nnavarre/">N. Navarre</a>, <a href="https://quillienlab.github.io/">T. Quillien</a>, D. Lassiter, <a href="https://cicl.stanford.edu/member/tobias_gerstenberg/">T. Gerstenberg</a>, &amp; <a href="https://www.bramleylab.ppls.ed.ac.uk/member/neil/">N. R. Bramley</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2026.
 <br>
 
@@ -56,9 +56,7 @@ The lady doth protest too much! Informativity expectations affect judgments of a
 <br>&#160;&#160;&#160;&#160;&#160;Manuscript [under revision]. 
 <br>
 
-<a href="https://lingbuzz.net/lingbuzz/009556">Failed changes and the Superset Problem: The
-importance of learning in models of syntactic
-change</a> [D. Lassiter &amp; <a href="http://robtruswell.com/">R. Truswell</a>]
+<a href="https://lingbuzz.net/lingbuzz/009556">Failed changes and the Superset Problem: The importance of learning in models of syntactic change</a> [D. Lassiter &amp; <a href="http://robtruswell.com/">R. Truswell</a>]
 <br>&#160;&#160;&#160;&#160;&#160;Manuscript [under revision]. 
 <br>
 
