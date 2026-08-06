@@ -53,13 +53,13 @@ The lady doth protest too much! Informativity expectations affect judgments of a
 <h3>2025</h3>
 
 <a href="https://lingbuzz.net/lingbuzz/009641">The temporary-context theory of conditionals</a>
-<br>&#160;&#160;&#160;&#160;&#160;Manuscript. 
+<br>&#160;&#160;&#160;&#160;&#160;Manuscript [under revision]. 
 <br>
 
 <a href="https://lingbuzz.net/lingbuzz/009556">Failed changes and the Superset Problem: The
 importance of learning in models of syntactic
 change</a> [D. Lassiter &amp; <a href="http://robtruswell.com/">R. Truswell</a>]
-<br>&#160;&#160;&#160;&#160;&#160;Manuscript under review. 
+<br>&#160;&#160;&#160;&#160;&#160;Manuscript [under revision]. 
 <br>
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/mila.70013">How generics obscure the logic of conditionals</a> [D. Lassiter, M. Bourlier, B. Jacquet &amp; <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
