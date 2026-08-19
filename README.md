@@ -86,7 +86,7 @@ The lady doth protest too much! Informativity expectations affect judgments of a
 <br>&#160;&#160;&#160;&#160;&#160;Proceedings of CogSci 2024.
 <br>
 
-<a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5821">Graded causatives</a> [<a href="https://angelacao8.github.io/">A. Cao</a>, <a href="https://aaronstevenwhite.io/">A. S. White</a> and D. Lassiter]
+<a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5821"><em>Cause</em>, <em>make</em>, and <em>force</em> as graded causatives</a> [<a href="https://angelacao8.github.io/">A. Cao</a>, <a href="https://aaronstevenwhite.io/">A. S. White</a> and D. Lassiter]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Experiments in Linguistic Meaning 3</em>.
 <br>
 
@@ -298,7 +298,7 @@ Edited volume: Daniel Lassiter and Marija Slavkovik (eds). <a href="http://www.s
 
 <h3>Manuscripts</h3> 
 Some papers that were posted in draft form and never finished, but that I still get asked about sometimes.
-<br>
+<br><br>
 <ul>
 <li>
 <a href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/Lassiter-MLBR-uncertainty-draft.pdf">Modal language and Bayesian reasoning</a>
