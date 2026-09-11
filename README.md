@@ -42,7 +42,7 @@ Truth, acceptability and &quot;truth&quot; [D. Lassiter &amp; V. Reksnes]
 <br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Semantics and Linguistic Theory (SALT) 36</em>.
 <br>
 
-The lady doth protest too much! Informativity expectations affect judgments of argument strength [S.R. Pulupura, <a href="https://pragmatics.ppls.ed.ac.uk/~hannah/">H. Rohde</a>, D. Lassiter &amp; <a href="https://homepages.inf.ed.ac.uk/clai/">C. Lai</a>]
+The lady doth protest too much! Informativity expectations affect judgments of argument strength [S.R. Pulapura, <a href="https://pragmatics.ppls.ed.ac.uk/~hannah/">H. Rohde</a>, D. Lassiter &amp; <a href="https://homepages.inf.ed.ac.uk/clai/">C. Lai</a>]
 <br>&#160;&#160;&#160;&#160;&#160;To appear in <em>Proceedings of the 30th Workshop on the Semantics and Pragmatics of Dialogue (SemDial 2026)</em>.
 <br>
 
