@@ -64,7 +64,7 @@ The lady doth protest too much! Informativity expectations affect judgments of a
 <br>&#160;&#160;&#160;&#160;&#160;Manuscript. 
 <br>
 
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/mila.70013">How generics obscure the logic of conditionals</a> [D. Lassiter, M. Bourlier, B. Jacquet &amp; <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
+<a href="http://doi.org/10.1111/mila.70013">How generics obscure the logic of conditionals</a> [D. Lassiter, M. Bourlier, B. Jacquet &amp; <a href="https://paris-reasoning.eu/members/regular/jean-baratgin/">J. Baratgin</a>]
 <br>&#160;&#160;&#160;&#160;&#160;<em>Mind &amp; Language</em> (open access). 
 <br>
 
