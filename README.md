@@ -32,7 +32,8 @@
 <h2 class="col" style="margin-top:10px;margin-bottom:5px"><a
   href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/Lassiter-CV.pdf">CV</a></h2>
 
-
+<h2 class="col" style="margin-top:10px;margin-bottom:5px"><a
+  href="https://github.com/danlassiter2/danlassiter2.github.io/raw/master/papers/CommuniCause_Project_description.pdf">Project description: Communicating Causality</a></h2>
 
 <h2 class="col" style="padding-bottom:0;margin-bottom:3;">Writing</h2> 
 
